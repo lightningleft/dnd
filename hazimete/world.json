@@ -87,7 +87,7 @@
   "keywords": [],
   "socket": false,
   "url": "https://github.com/lightningleft/dnd",
-  "manifest": "https://raw.githubusercontent.com/lightningleft/dnd/hazunete/world.json",
+  "manifest": "https://raw.githubusercontent.com/lightningleft/dnd/master/hazimete/world.json"
   "download": "https://github.com/lightningleft/dnd/main.zip",
   "license": "",
   "readme": "",
